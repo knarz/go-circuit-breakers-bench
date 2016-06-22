@@ -1,0 +1,16 @@
+hash: b46a93d1aa204f147662c903697af6b1696479a0e4c4904c7c59a29ef6869621
+updated: 2016-06-20T18:55:39.578432627+02:00
+imports:
+- name: github.com/cenkalti/backoff
+  version: cdf48bbc1eb78d1349cbda326a4a037f7ba565c6
+- name: github.com/eapache/go-resiliency
+  version: b86b1ec0dd4209a588dc1285cdd471e73525c0b3
+  subpackages:
+  - breaker
+- name: github.com/facebookgo/clock
+  version: 600d898af40aa09a7a93ecb9265d87b0504b6f03
+- name: github.com/rubyist/circuitbreaker
+  version: 5869daca94c0dd5159cc6e7195c213e9c07ee8a3
+- name: github.com/sony/gobreaker
+  version: 809bcd5a528f344e95c2368796c9225d128f9b3e
+devImports: []

@@ -1,0 +1,3 @@
+package: github.com/knarz/go-circuit-breakers-bench
+import:
+- package: github.com/rubyist/circuitbreaker
